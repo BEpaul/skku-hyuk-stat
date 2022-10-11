@@ -27,6 +27,7 @@ switch (command) {
         result = lib.avg(numbers);
         break;
     case "max":
+        // result = lib[command](numbers);
         result = lib.max(numbers);
         break;
     default:
